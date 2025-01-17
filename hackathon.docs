@@ -1,4 +1,4 @@
-# Marketplace Technical Foundation - [Your Marketplace Name]
+# Marketplace Technical Foundation - E-commerce website
 
 ## 1. System Architecture Overview
 
