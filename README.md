@@ -1,4 +1,4 @@
-# Marketplace Technical Foundation - E-commerce website
+# Marketplace Technical Foundation - E-commerce website (Hekto)
 
 ## 1. System Architecture Overview
 
@@ -129,11 +129,9 @@ export default {
    - Implement payment gateway.
    - Add shipment tracking functionality.
 
-4. **Testing and Deployment**:
+4. Testing and Deployment:
    - Conduct unit and integration testing.
    - Deploy the application to Vercel.
 
----
 
-This documentation serves as a professional reference for developers, stakeholders, and clients, ensuring clarity and alignment throughout the project lifecycle.
 
