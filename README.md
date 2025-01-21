@@ -9,6 +9,7 @@ Below is the system architecture diagram showcasing the interaction between the 
 - **Sanity CMS**: Acts as the backend for managing product, customer, and order data. It also provides APIs to retrieve and update this information.
 - **Third-Party APIs**: Integrated for payment processing and shipment tracking.
 
+![Day 2 Diagram](day-2.png)
 
 
 ### Component Roles
