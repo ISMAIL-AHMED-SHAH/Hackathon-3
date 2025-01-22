@@ -6,7 +6,7 @@ The primary task for the day was **brainstorming** to generate unique ideas and 
 
 By engaging in brainstorming, numerous ideas came to mind, but I decided to focus on the provided template, whose UI/UX we had already created in the previous hackathon. This template is centered around a furniture marketplace, which I plan to expand after completing this hackathon by adding schemas for rental products as well, such as chairs and tables, commonly rented for occasions and parties. 
 
-[View the PDF Documentation](Day-01.pdf)
+[View the hand written Documentation in PDF](Day-01.pdf)
 
 
 ### Key Highlights of Day 1:  
