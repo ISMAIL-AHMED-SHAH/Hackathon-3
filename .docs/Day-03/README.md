@@ -98,10 +98,10 @@ Migrated data into **Sanity CMS** using a combination of manual imports and scri
    ![API Testing Screenshot](postman.png)  
 
 2. **Sanity CMS Populated Fields**:  
-   ![Sanity CMS Fields](path/to/screenshot2.png)  
+   ![Sanity CMS Fields](sanity-data.png)  
 
 3. **Frontend Display**:  
-   ![Frontend Screenshot](path/to/screenshot3.png)  
+   ![Frontend Screenshot](frontend.png)
 
 ---
 
