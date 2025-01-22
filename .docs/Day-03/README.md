@@ -95,7 +95,7 @@ Migrated data into **Sanity CMS** using a combination of manual imports and scri
 
 ## Screenshots  
 1. **API Call Testing**:  
-   ![API Testing Screenshot](path/to/screenshot1.png)  
+   ![API Testing Screenshot](postman.png)  
 
 2. **Sanity CMS Populated Fields**:  
    ![Sanity CMS Fields](path/to/screenshot2.png)  
