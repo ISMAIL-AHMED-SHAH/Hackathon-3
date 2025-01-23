@@ -66,35 +66,35 @@ To design and develop essential dynamic frontend components that fetch and displ
 
 ### Screenshots or Screen Recordings:
 
-# 1. Product Listing Page:
+### 1. Product Listing Page:
 
  - Paste a screenshot showcasing the product listing page with dynamic data rendered in a grid layout.
 
-# 2. Individual Product Detail Pages:
+### 2. Individual Product Detail Pages:
 
  - Include a screenshot of a product detail page displaying all relevant fields (e.g., description, price, available sizes/colors).
 
  - Ensure dynamic routing is visible in the URL structure.
 
-# 3. Category Filters, Search Bar, and Pagination:
+### 3. Category Filters, Search Bar, and Pagination:
 
  - Add a screenshot showcasing working category filters, a functional search bar, and pagination for product lists.
 
-# 4. Additional Features (if implemented):
+### 4. Additional Features (if implemented):
 
  - Include screenshots of any additional components like related products or user profile pages.
 
 ## Code Deliverables:
 
- # 1. Code Snippets:
+ ### 1. Code Snippets:
 
  - Paste key code snippets for essential components:
 
-   -- ProductCard
+   - ProductCard
 
-   -- ProductList
+   - ProductList
 
-   -- SearchBar
+   - SearchBar
 
  - Include scripts or logic for API integration and dynamic routing.
 ---
