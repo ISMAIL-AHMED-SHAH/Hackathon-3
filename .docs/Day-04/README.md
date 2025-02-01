@@ -99,6 +99,9 @@ To design and develop essential dynamic frontend components that fetch and displ
 
 ##### Groq Query
  ![Groq Query ](query.png)
+
+ ##### Groq Query
+ ![Cart Items ](cart.png)
 ---
 
 ### **Workflow Summary:**
