@@ -22,7 +22,10 @@ To design and develop essential dynamic frontend components that fetch and displ
   - Product Name
   - Price
   - Image
-  - Stock Status
+  - Stock Level
+  - Category
+  - Description
+
 - **Implementation Details:**
   - Fetch data from APIs or Sanity CMS.
   - Render products in a responsive card layout.
@@ -33,7 +36,7 @@ To design and develop essential dynamic frontend components that fetch and displ
 - **Fields Included:**
   - Product Description
   - Price
-  - Available Sizes or Colors
+  - Available Stock
 - **Implementation Details:**
   - Implement dynamic routing in Next.js to create unique pages for each product.
   - Ensure navigation between product listings and detail pages is smooth.
@@ -63,40 +66,37 @@ To design and develop essential dynamic frontend components that fetch and displ
   - Ensure responsive design and accessibility for all navigation elements.
 
 ## **Functional Deliverables:**
+# Project Documentation
 
-### Screenshots or Screen Recordings:
+## Screenshots:
 
 ### 1. Product Listing Page:
-
- - Paste a screenshot showcasing the product listing page with dynamic data rendered in a grid layout.
+![Product Listing Page](https://i.imgur.com/abc123.png)
 
 ### 2. Individual Product Detail Pages:
+![Product Detail Page](https://i.imgur.com/def456.png)  
+![Slug Page](https://i.imgur.com/ghi789.png)
 
- - Include a screenshot of a product detail page displaying all relevant fields (e.g., description, price, available sizes/colors).
+### 3. Category Filters, Search Bar:
+![Search Bar](https://i.imgur.com/jkl012.png)
 
- - Ensure dynamic routing is visible in the URL structure.
-
-### 3. Category Filters, Search Bar, and Pagination:
-
- - Add a screenshot showcasing working category filters, a functional search bar, and pagination for product lists.
-
-### 4. Additional Features (if implemented):
-
- - Include screenshots of any additional components like related products or user profile pages.
+---
 
 ## Code Deliverables:
 
- ### 1. Code Snippets:
+### 1. Code Snippets:
 
- - Paste key code snippets for essential components:
+#### Key code snippets for essential components:
 
-   - ProductCard
+##### ProductCard
+![ProductCard Component](https://i.imgur.com/mno345.png)
 
-   - ProductList
+##### ProductList
+![ProductList Component](https://i.imgur.com/pqr678.png)
 
-   - SearchBar
-
- - Include scripts or logic for API integration and dynamic routing.
+##### SearchBar
+![SearchBar Component](https://i.imgur.com/stu901.png)
+ 
 ---
 
 ### **Workflow Summary:**
