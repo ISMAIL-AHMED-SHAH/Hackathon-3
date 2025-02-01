@@ -71,14 +71,14 @@ To design and develop essential dynamic frontend components that fetch and displ
 ## Screenshots:
 
 ### 1. Product Listing Page:
-![Product Listing Page](https://i.imgur.com/abc123.png)
+![Product Listing Page](grid.png)
 
 ### 2. Individual Product Detail Pages:
-![Product Detail Page](https://i.imgur.com/def456.png)  
-![Slug Page](https://i.imgur.com/ghi789.png)
+![Product Detail Page](product-detail.png)  
+![Slug Page](slug.png)
 
 ### 3. Category Filters, Search Bar:
-![Search Bar](https://i.imgur.com/jkl012.png)
+![Search Bar](search.png)
 
 ---
 
@@ -89,14 +89,16 @@ To design and develop essential dynamic frontend components that fetch and displ
 #### Key code snippets for essential components:
 
 ##### ProductCard
-![ProductCard Component](https://i.imgur.com/mno345.png)
+![ProductCard Component](product-card.png)
 
 ##### ProductList
-![ProductList Component](https://i.imgur.com/pqr678.png)
+![ProductList Component](product-page.png)
 
 ##### SearchBar
-![SearchBar Component](https://i.imgur.com/stu901.png)
- 
+![SearchBar Component](search-bar.png)
+
+##### Groq Query
+ ![Groq Query ](query.png)
 ---
 
 ### **Workflow Summary:**
