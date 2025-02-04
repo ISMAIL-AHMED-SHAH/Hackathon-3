@@ -76,11 +76,23 @@ Simulated real-world user scenarios to validate:
    ### Encounter an Error
 - ✅ 🚨 Problem: The Images were not rendering properly
  ![Encounter an Error](error.png)
-  ### Enror Resolved
+  ### Error Resolved
 - ✅ Solution: The issue was resolved, the images load successfully across all devices.
  ![Error Resolved](resolved.png)
 - ✅ **Prepared CSV-based test report with all test cases and results.**
   [Download Test Report](report.csv)  
+
+### Test Report Overview
+Below is a summary of the test cases included in the report:
+
+| S/No. | Test Case ID | Test Case Description           | Test Steps                              | Expected Result                  | Actual Result                    | Status  | Severity Level | Assigned To | Remarks             |
+|-------|--------------|---------------------------------|-----------------------------------------|----------------------------------|----------------------------------|---------|-----------------|-------------|---------------------|
+| 1     | TC001        | Validate product listing page   | Open product page > Verify products     | Products displayed correctly     | Products displayed correctly     | Passed  | Medium          | -           | No issues found     |
+| 2     | TC002        | Test API error handling         | Disconnect API > Refresh page           | Show fallback UI with error message | Error message shown           | Passed  | Medium          | -           | Handled gracefully  |
+| 3     | TC003        | Check cart functionality        | Add product to cart > Verify cart contents | Cart updates with added product | Cart updates as expected        | Passed  | High            | -           | Works as expected   |
+| 4     | TC004        | Ensure responsiveness on mobile | Resize browser window > Check layout    | Layout adjusts properly to screen size | Responsive layout working as intended | Passed  | Medium          | -           | Test successful     |
+
+---
 
 
 
