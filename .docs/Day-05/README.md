@@ -7,7 +7,6 @@ I have implemented comprehensive functional testing to validate all marketplace 
 - ✅ **Cart operations:** Tested adding, updating, and removing items.
 - ✅ **Dynamic routing:** Checked proper navigation to product detail pages.
 
-📌 **Screenshot:** *(Add screenshot here)*
 
 ## ⚠️ Error Handling
 Implemented robust error handling with clear fallback messages. Key implementations:
@@ -25,7 +24,7 @@ Implemented robust error handling with clear fallback messages. Key implementati
   }
 ```
 
-📌  ##### Try Catch Blocks
+  ##### Try Catch Blocks
  ![Try Catch ](try-catch.png)
 
 ## 🚀 Performance Optimization
@@ -35,10 +34,10 @@ I optimized the marketplace for speed and responsiveness using:
 - ✅ **Lazy loading for large assets**.
 - ✅ **Browser caching & minimized CSS/JS** for faster load times.
 
-📌  ##### Lighthouse Performance 
+  ##### Lighthouse Performance 
  ![Lighthouse](perform.png)
 
- 📌  ##### Tinypng implementation
+   ##### Tinypng implementation
  ![Tinypng](tinypng.png)
 
 ## 🌐 Cross-Browser & Device Testing
@@ -47,11 +46,11 @@ I ensured compatibility across multiple devices and browsers:
 - ✅ **Responsive design validated using BrowserStack.**
 - ✅ **Manual testing on a physical mobile device.**
 
- 📌  ##### Tested on Different Browsers
+   ##### Tested on Different Browsers
  ![Testing on Browsers](browsers.png)
  ![Testing on Browsers](browser.png)
 
- 📌  ##### Mobile Simulator
+   ##### Mobile Simulator
  ![Mobile Simulator](mobile.png)
 
 ## 🔒 Security Testing
@@ -69,14 +68,14 @@ Simulated real-world user scenarios to validate:
 - ✅ **User-friendly navigation and interactions.**
 - ✅ **Gathered feedback and applied necessary fixes.**
 
-📌 **User Interaction Screenshot:** *(Add screenshot here)*
+
 
 ## 📄 Documentation & Testing Report
 - ✅ **Prepared CSV-based test report with all test cases and results.**
 - ✅ **Created a professional PDF/Markdown report.**
 - ✅ **Uploaded all testing documents to GitHub.**
 
-📌 **Testing Report Sample Screenshot:** *(Add screenshot here)*
+
 
 ## ✅ Final Checklist
 ✔️ Fully tested and optimized marketplace.
