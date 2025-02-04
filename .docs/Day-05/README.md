@@ -17,16 +17,16 @@ Implemented robust error handling with clear fallback messages. Key implementati
 - ✅ **Fallback UI elements:** Displayed alternative content when data is unavailable.
 
 ```javascript
-try {
-  const data = await fetchProducts();
-  setProducts(data);
-} catch (error) {
-  console.error("Failed to fetch products:", error);
-  setError("Unable to load products. Please try again later.");
-}
+  try {
+    return client.fetch(relatedProductsQuery, { category, slug });
+  } catch (error) {
+    console.error("Error fetching related products:", error);
+    return [];
+  }
 ```
 
-📌 **Screenshot:** *(Add screenshot here)*
+📌  ##### Try Catch Blocks
+ ![Try Catch ](try-catch.png)
 
 ## 🚀 Performance Optimization
 I optimized the marketplace for speed and responsiveness using:
@@ -35,15 +35,24 @@ I optimized the marketplace for speed and responsiveness using:
 - ✅ **Lazy loading for large assets**.
 - ✅ **Browser caching & minimized CSS/JS** for faster load times.
 
-📌 **Performance Report Screenshot:** *(Add screenshot here)*
+📌  ##### Lighthouse Performance 
+ ![Lighthouse](perform.png)
+
+ 📌  ##### Tinypng implementation
+ ![Tinypng](tinypng.png)
 
 ## 🌐 Cross-Browser & Device Testing
 I ensured compatibility across multiple devices and browsers:
-- ✅ **Tested on Chrome, Firefox, Safari, and Edge.**
+- ✅ **Tested on Chrome, Firefox, and Edge.**
 - ✅ **Responsive design validated using BrowserStack.**
 - ✅ **Manual testing on a physical mobile device.**
 
-📌 **Testing Results Screenshot:** *(Add screenshot here)*
+ 📌  ##### Tested on Different Browsers
+ ![Testing on Browsers](browsers.png)
+ ![Testing on Browsers](browser.png)
+
+ 📌  ##### Mobile Simulator
+ ![Mobile Simulator](mobile.png)
 
 ## 🔒 Security Testing
 I conducted security checks to ensure safe user interactions:
@@ -52,7 +61,7 @@ I conducted security checks to ensure safe user interactions:
 - ✅ **Stored API keys in environment variables.**
 - ✅ **Validated user inputs using regex patterns.**
 
-📌 **Security Test Screenshot:** *(Add screenshot here)*
+
 
 ## 👥 User Acceptance Testing (UAT)
 Simulated real-world user scenarios to validate:
