@@ -1,5 +1,8 @@
 # Day 5 - Testing, Error Handling, and Backend Integration Refinement
 
+### **Objective:**  
+On Day 5, the focus is to prepare my marketplace for live deployment by performing thorough testing of all components, optimizing performance, and ensuring its readiness to handle customer traffic efficiently. Key priorities include validating backend configurations, enhancing error-handling mechanisms, and refining the overall user experience.
+
 ## 🛠️ Functional Testing
 I have implemented comprehensive functional testing to validate all marketplace features. The following aspects were tested:
 - ✅ **Product listing:** Ensured correct display of products.

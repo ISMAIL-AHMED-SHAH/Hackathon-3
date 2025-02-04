@@ -1,6 +1,6 @@
 # **Day 4: Building Dynamic Frontend Components for My Marketplace**
 
-**Objective:**  
+### **Objective:**  
 To design and develop essential dynamic frontend components that fetch and display data from Sanity CMS or APIs, focusing on modular, reusable, and scalable design.
 
 ---
